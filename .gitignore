@@ -9,4 +9,11 @@ node_modules/
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
 package-lock.json
