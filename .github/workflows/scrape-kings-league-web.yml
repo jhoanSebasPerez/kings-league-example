@@ -1,0 +1,46 @@
+name: Scrapped Kings League Infojobs website
+
+on:
+  workflow_dispatch: 
+  
+  repository_dispatch:
+    types:
+      - webhook
+  
+  schedule: 
+    - cron: "0 */1 * * 0"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - uses: pnpm/action-setup@v2
+        with: 
+          version: 7.18.2
+      - run: npm ci
+      - run: npm test
+
+  publish-gpr:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          registry-url: https://npm.pkg.github.com/
+      - run: |
+          node scrapping/leaderboard.js
+          git config user.name kings-league-bot
+          git add -A
+          git commit -m "[bot] Update kings League database"
+          git push origin main
