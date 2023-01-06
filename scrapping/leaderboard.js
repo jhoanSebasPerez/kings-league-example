@@ -1,9 +1,6 @@
 import * as cheerio from 'cheerio'
-import { writeFile, readFile } from 'node:fs/promises'
-import path from 'node:path'
+import { writeDBFile, TEAMS, PRESIDENTS } from '../db/index.js'
 
-const DB_PATH = path.join(process.cwd(), './db')
-const TEAMS = await readFile(`${DB_PATH}/teams.json`, 'utf-8').then(JSON.parse)
 // import TEAMS from '../db/teams.json' assert {type: 'json'}
 
 const URLS = {
@@ -31,7 +28,11 @@ async function getLeaderboard () {
     cardsRed: { selector: '.fs-table-text_9', typeOf: 'number' }
   }
 
-  const getTeamFrom = ({ name }) => TEAMS.find(team => team.name === name)
+  const getTeamFrom = ({ name }) => {
+    const { presidentId, ...restOfTeam } = TEAMS.find(team => team.name === name)
+    const president = PRESIDENTS.find(p => p.id === presidentId)
+    return { president, ...restOfTeam }
+  }
 
   const cleanText = text => text
     .replace(/\t|\n|\s:/g, '')
@@ -62,4 +63,4 @@ async function getLeaderboard () {
 
 const leaderboard = await getLeaderboard(URLS.leaderboard)
 
-await writeFile(`${DB_PATH}/leaderboard.json`, JSON.stringify(leaderboard, null, 2), 'utf-8')
+await writeDBFile('leaderboard', leaderboard)
