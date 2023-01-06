@@ -1,6 +1,21 @@
 [
   {
-    "team": "El Barrio",
+    "team": {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "/el-barrio.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 1,
     "loses": 0,
     "goalsScored": 5,
@@ -9,7 +24,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Ultimate Móstoles",
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "/ultimate-mostoles.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 1,
     "loses": 0,
     "goalsScored": 5,
@@ -18,7 +48,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Los Troncos FC",
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "/los-troncos.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 1,
     "loses": 0,
     "goalsScored": 5,
@@ -27,7 +72,22 @@
     "cardsRed": 0
   },
   {
-    "team": "1K FC",
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "/1k.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 1,
     "loses": 0,
     "goalsScored": 4,
@@ -36,7 +96,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Saiyans FC",
+    "team": {
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "/saiyans-fc.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 1,
     "loses": 0,
     "goalsScored": 4,
@@ -45,7 +120,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Kunisports",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "/kunisports.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 1,
     "loses": 0,
     "goalsScored": 2,
@@ -54,7 +144,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Jijantes FC",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "/jijantes-fc.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 0,
     "loses": 1,
     "goalsScored": 1,
@@ -63,7 +168,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Porcinos FC",
+    "team": {
+      "id": "porcinos-fc",
+      "name": "Porcinos FC",
+      "image": "/porcinos-fc.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 0,
     "loses": 1,
     "goalsScored": 2,
@@ -72,7 +192,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Rayo de Barcelona",
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "/rayo-barcelona.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 0,
     "loses": 1,
     "goalsScored": 2,
@@ -81,7 +216,22 @@
     "cardsRed": 0
   },
   {
-    "team": "XBUYER TEAM",
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "/xbuyer-team.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 0,
     "loses": 1,
     "goalsScored": 2,
@@ -90,7 +240,22 @@
     "cardsRed": 0
   },
   {
-    "team": "Aniquiladores FC",
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "/aniquiladores.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 0,
     "loses": 1,
     "goalsScored": 1,
@@ -99,7 +264,22 @@
     "cardsRed": 0
   },
   {
-    "team": "PIO FC",
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "/pio.svg",
+      "url": "",
+      "president": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
     "wins": 0,
     "loses": 1,
     "goalsScored": 0,
