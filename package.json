@@ -1,7 +1,7 @@
 {
   "name": "kings-league",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Website and API for Kings League",
   "main": "index.js",
   "type": "module",
   "scripts": {
