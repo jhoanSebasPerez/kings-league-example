@@ -18,7 +18,7 @@ app.get('/leaderboard', (ctx) => {
   return ctx.json(leaderboard)
 })
 
-app.get('/presidents', (ctx) => {
+app.get('/presidents\\/?', (ctx) => {
   return ctx.json(presidents)
 })
 
