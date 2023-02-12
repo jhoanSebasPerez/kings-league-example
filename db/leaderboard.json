@@ -21,10 +21,10 @@
       ],
       "players": []
     },
-    "wins": 4,
+    "wins": 5,
     "loses": 1,
-    "goalsScored": 12,
-    "goalsConceded": 5,
+    "goalsScored": 14,
+    "goalsConceded": 7,
     "cardsYellow": 6,
     "cardsRed": 1
   },
@@ -50,10 +50,10 @@
       ],
       "players": []
     },
-    "wins": 4,
+    "wins": 0,
     "loses": 1,
-    "goalsScored": 18,
-    "goalsConceded": 12,
+    "goalsScored": 22,
+    "goalsConceded": 15,
     "cardsYellow": 1,
     "cardsRed": 0
   },
@@ -81,10 +81,39 @@
     },
     "wins": 4,
     "loses": 1,
-    "goalsScored": 10,
-    "goalsConceded": 6,
+    "goalsScored": 13,
+    "goalsConceded": 8,
     "cardsYellow": 6,
     "cardsRed": 0
+  },
+  {
+    "team": {
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/perxitaa.png",
+        "teamId": "los-troncos-fc"
+      },
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/los-troncos.svg",
+      "url": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 1,
+    "loses": 3,
+    "goalsScored": 15,
+    "goalsConceded": 25,
+    "cardsYellow": 2,
+    "cardsRed": 1
   },
   {
     "team": {
@@ -108,10 +137,10 @@
       ],
       "players": []
     },
-    "wins": 3,
+    "wins": 0,
     "loses": 2,
-    "goalsScored": 15,
-    "goalsConceded": 12,
+    "goalsScored": 18,
+    "goalsConceded": 14,
     "cardsYellow": 1,
     "cardsRed": 0
   },
@@ -132,9 +161,9 @@
       "players": []
     },
     "wins": 3,
-    "loses": 2,
-    "goalsScored": 16,
-    "goalsConceded": 15,
+    "loses": 3,
+    "goalsScored": 18,
+    "goalsConceded": 17,
     "cardsYellow": 1,
     "cardsRed": 0
   },
@@ -161,8 +190,8 @@
       "players": []
     },
     "wins": 3,
-    "loses": 2,
-    "goalsScored": 15,
+    "loses": 3,
+    "goalsScored": 14,
     "goalsConceded": 15,
     "cardsYellow": 1,
     "cardsRed": 0
@@ -190,9 +219,9 @@
       "players": []
     },
     "wins": 3,
-    "loses": 2,
-    "goalsScored": 11,
-    "goalsConceded": 12,
+    "loses": 3,
+    "goalsScored": 14,
+    "goalsConceded": 16,
     "cardsYellow": 3,
     "cardsRed": 0
   },
@@ -219,9 +248,9 @@
       "players": []
     },
     "wins": 2,
-    "loses": 3,
-    "goalsScored": 13,
-    "goalsConceded": 10,
+    "loses": 4,
+    "goalsScored": 16,
+    "goalsConceded": 13,
     "cardsYellow": 2,
     "cardsRed": 0
   },
@@ -248,40 +277,11 @@
       "players": []
     },
     "wins": 2,
-    "loses": 3,
+    "loses": -2,
     "goalsScored": 15,
-    "goalsConceded": 18,
+    "goalsConceded": 21,
     "cardsYellow": 1,
     "cardsRed": 0
-  },
-  {
-    "team": {
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/perxitaa.png",
-        "teamId": "los-troncos-fc"
-      },
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/los-troncos.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 2,
-    "loses": 3,
-    "goalsScored": 17,
-    "goalsConceded": 22,
-    "cardsYellow": 2,
-    "cardsRed": 1
   },
   {
     "team": {
@@ -305,9 +305,9 @@
       ],
       "players": []
     },
-    "wins": 0,
+    "wins": 1,
     "loses": 5,
-    "goalsScored": 9,
+    "goalsScored": 14,
     "goalsConceded": 16,
     "cardsYellow": 5,
     "cardsRed": 0
@@ -335,9 +335,9 @@
       "players": []
     },
     "wins": 0,
-    "loses": 5,
+    "loses": 2,
     "goalsScored": 11,
-    "goalsConceded": 19,
+    "goalsConceded": 24,
     "cardsYellow": 3,
     "cardsRed": 0
   }
