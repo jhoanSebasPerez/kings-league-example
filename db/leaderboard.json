@@ -2,35 +2,6 @@
   {
     "team": {
       "president": {
-        "id": "thegrefg",
-        "name": "TheGrefg",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/thegrefg.png",
-        "teamId": "saiyans-fc"
-      },
-      "id": "saiyans-fc",
-      "name": "Saiyans FC",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/saiyans-fc.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 5,
-    "loses": 1,
-    "goalsScored": 14,
-    "goalsConceded": 7,
-    "cardsYellow": 3,
-    "cardsRed": 1
-  },
-  {
-    "team": {
-      "president": {
         "id": "ibai-llanos",
         "name": "Ibai Llanos",
         "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/ibai-llanos.png",
@@ -50,10 +21,68 @@
       ],
       "players": []
     },
-    "wins": 5,
+    "wins": 6,
     "loses": 1,
+    "goalsScored": 27,
+    "goalsConceded": 17,
+    "cardsYellow": 1,
+    "cardsRed": 0
+  },
+  {
+    "team": {
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/thegrefg.png",
+        "teamId": "saiyans-fc"
+      },
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/saiyans-fc.svg",
+      "url": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 6,
+    "loses": 1,
+    "goalsScored": 15,
+    "goalsConceded": 7,
+    "cardsYellow": 3,
+    "cardsRed": 1
+  },
+  {
+    "team": {
+      "president": {
+        "id": "djmariio",
+        "name": "DjMaRiiO",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/djmariio.png",
+        "teamId": "ultimate-mostoles"
+      },
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/ultimate-mostoles.svg",
+      "url": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 5,
+    "loses": 2,
     "goalsScored": 22,
-    "goalsConceded": 15,
+    "goalsConceded": 17,
     "cardsYellow": 1,
     "cardsRed": 0
   },
@@ -80,23 +109,23 @@
       "players": []
     },
     "wins": 5,
-    "loses": 1,
-    "goalsScored": 13,
-    "goalsConceded": 8,
+    "loses": 2,
+    "goalsScored": 15,
+    "goalsConceded": 14,
     "cardsYellow": 2,
     "cardsRed": 0
   },
   {
     "team": {
       "president": {
-        "id": "djmariio",
-        "name": "DjMaRiiO",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/djmariio.png",
-        "teamId": "ultimate-mostoles"
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/adri-contreras.png",
+        "teamId": "el-barrio"
       },
-      "id": "ultimate-mostoles",
-      "name": "Ultimate Móstoles",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/ultimate-mostoles.svg",
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/el-barrio.svg",
       "url": "",
       "channel": "https://twitch.tv/1k",
       "coach": "",
@@ -108,10 +137,10 @@
       ],
       "players": []
     },
-    "wins": 4,
-    "loses": 2,
-    "goalsScored": 18,
-    "goalsConceded": 14,
+    "wins": 3,
+    "loses": 4,
+    "goalsScored": 22,
+    "goalsConceded": 15,
     "cardsYellow": 1,
     "cardsRed": 0
   },
@@ -132,9 +161,9 @@
       "players": []
     },
     "wins": 3,
-    "loses": 3,
-    "goalsScored": 18,
-    "goalsConceded": 17,
+    "loses": 4,
+    "goalsScored": 20,
+    "goalsConceded": 22,
     "cardsYellow": 0,
     "cardsRed": 0
   },
@@ -161,10 +190,39 @@
       "players": []
     },
     "wins": 3,
-    "loses": 3,
-    "goalsScored": 17,
-    "goalsConceded": 18,
+    "loses": 4,
+    "goalsScored": 19,
+    "goalsConceded": 21,
     "cardsYellow": 1,
+    "cardsRed": 0
+  },
+  {
+    "team": {
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/spursito.png",
+        "teamId": "rayo-barcelona"
+      },
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/rayo-barcelona.svg",
+      "url": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 3,
+    "loses": 4,
+    "goalsScored": 20,
+    "goalsConceded": 23,
+    "cardsYellow": 0,
     "cardsRed": 0
   },
   {
@@ -190,9 +248,9 @@
       "players": []
     },
     "wins": 3,
-    "loses": 3,
-    "goalsScored": 14,
-    "goalsConceded": 16,
+    "loses": 4,
+    "goalsScored": 16,
+    "goalsConceded": 21,
     "cardsYellow": 3,
     "cardsRed": 0
   },
@@ -219,69 +277,11 @@
       "players": []
     },
     "wins": 3,
-    "loses": 3,
+    "loses": 4,
     "goalsScored": 20,
-    "goalsConceded": 25,
+    "goalsConceded": 26,
     "cardsYellow": 2,
     "cardsRed": 1
-  },
-  {
-    "team": {
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/adri-contreras.png",
-        "teamId": "el-barrio"
-      },
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/el-barrio.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 2,
-    "loses": 4,
-    "goalsScored": 16,
-    "goalsConceded": 13,
-    "cardsYellow": 1,
-    "cardsRed": 0
-  },
-  {
-    "team": {
-      "president": {
-        "id": "spursito",
-        "name": "Spursito",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/spursito.png",
-        "teamId": "rayo-barcelona"
-      },
-      "id": "rayo-barcelona",
-      "name": "Rayo de Barcelona",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/rayo-barcelona.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 2,
-    "loses": 4,
-    "goalsScored": 17,
-    "goalsConceded": 21,
-    "cardsYellow": 0,
-    "cardsRed": 0
   },
   {
     "team": {
@@ -305,10 +305,10 @@
       ],
       "players": []
     },
-    "wins": 1,
+    "wins": 2,
     "loses": 5,
-    "goalsScored": 14,
-    "goalsConceded": 16,
+    "goalsScored": 19,
+    "goalsConceded": 18,
     "cardsYellow": 4,
     "cardsRed": 0
   },
@@ -335,9 +335,9 @@
       "players": []
     },
     "wins": 0,
-    "loses": 6,
-    "goalsScored": 11,
-    "goalsConceded": 24,
+    "loses": 7,
+    "goalsScored": 14,
+    "goalsConceded": 28,
     "cardsYellow": 2,
     "cardsRed": 0
   }
