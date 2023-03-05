@@ -2,35 +2,6 @@
   {
     "team": {
       "president": {
-        "id": "ibai-llanos",
-        "name": "Ibai Llanos",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/ibai-llanos.png",
-        "teamId": "porcinos-fc"
-      },
-      "id": "porcinos-fc",
-      "name": "Porcinos FC",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/porcinos-fc.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 6,
-    "loses": 2,
-    "goalsScored": 27,
-    "goalsConceded": 17,
-    "cardsYellow": 10,
-    "cardsRed": 0
-  },
-  {
-    "team": {
-      "president": {
         "id": "thegrefg",
         "name": "TheGrefg",
         "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/thegrefg.png",
@@ -50,11 +21,11 @@
       ],
       "players": []
     },
-    "wins": 6,
+    "wins": 7,
     "loses": 2,
-    "goalsScored": 16,
-    "goalsConceded": 10,
-    "cardsYellow": 6,
+    "goalsScored": 19,
+    "goalsConceded": 11,
+    "cardsYellow": 8,
     "cardsRed": 0
   },
   {
@@ -79,11 +50,40 @@
       ],
       "players": []
     },
-    "wins": 6,
+    "wins": 7,
     "loses": 2,
-    "goalsScored": 24,
-    "goalsConceded": 18,
-    "cardsYellow": 6,
+    "goalsScored": 29,
+    "goalsConceded": 22,
+    "cardsYellow": 7,
+    "cardsRed": 0
+  },
+  {
+    "team": {
+      "president": {
+        "id": "ibai-llanos",
+        "name": "Ibai Llanos",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/ibai-llanos.png",
+        "teamId": "porcinos-fc"
+      },
+      "id": "porcinos-fc",
+      "name": "Porcinos FC",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/porcinos-fc.svg",
+      "url": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 6,
+    "loses": 3,
+    "goalsScored": 31,
+    "goalsConceded": 22,
+    "cardsYellow": 9,
     "cardsRed": 0
   },
   {
@@ -109,10 +109,10 @@
       "players": []
     },
     "wins": 6,
-    "loses": 2,
+    "loses": 3,
     "goalsScored": 18,
-    "goalsConceded": 15,
-    "cardsYellow": 3,
+    "goalsConceded": 19,
+    "cardsYellow": -1,
     "cardsRed": 0
   },
   {
@@ -137,11 +137,92 @@
       ],
       "players": []
     },
-    "wins": 4,
+    "wins": 5,
     "loses": 4,
-    "goalsScored": 26,
-    "goalsConceded": 17,
-    "cardsYellow": 9,
+    "goalsScored": 29,
+    "goalsConceded": 18,
+    "cardsYellow": 11,
+    "cardsRed": 0
+  },
+  {
+    "team": {
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/perxitaa.png",
+        "teamId": "los-troncos-fc"
+      },
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/los-troncos.svg",
+      "url": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 5,
+    "loses": 4,
+    "goalsScored": 29,
+    "goalsConceded": 30,
+    "cardsYellow": -1,
+    "cardsRed": 0
+  },
+  {
+    "team": {
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/hnos-buyer.png",
+        "teamId": "xbuyer-team"
+      },
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/xbuyer-team.svg",
+      "url": "",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 4,
+    "loses": 5,
+    "goalsScored": 21,
+    "goalsConceded": 23,
+    "cardsYellow": -2,
+    "cardsRed": 0
+  },
+  {
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/1k.svg",
+      "url": "iker-casillas",
+      "channel": "https://twitch.tv/1k",
+      "coach": "",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": []
+    },
+    "wins": 4,
+    "loses": 5,
+    "goalsScored": 28,
+    "goalsConceded": 30,
+    "cardsYellow": -2,
     "cardsRed": 0
   },
   {
@@ -167,39 +248,10 @@
       "players": []
     },
     "wins": 4,
-    "loses": 4,
+    "loses": 5,
     "goalsScored": 23,
-    "goalsConceded": 23,
-    "cardsYellow": 0,
-    "cardsRed": 0
-  },
-  {
-    "team": {
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/perxitaa.png",
-        "teamId": "los-troncos-fc"
-      },
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/los-troncos.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 4,
-    "loses": 4,
-    "goalsScored": 25,
-    "goalsConceded": 30,
-    "cardsYellow": -5,
+    "goalsConceded": 27,
+    "cardsYellow": -4,
     "cardsRed": 0
   },
   {
@@ -225,33 +277,10 @@
       "players": []
     },
     "wins": 3,
-    "loses": 5,
-    "goalsScored": 19,
-    "goalsConceded": 18,
-    "cardsYellow": 1,
-    "cardsRed": 0
-  },
-  {
-    "team": {
-      "id": "1k",
-      "name": "1K FC",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/1k.svg",
-      "url": "iker-casillas",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 3,
-    "loses": 5,
-    "goalsScored": 24,
-    "goalsConceded": 27,
-    "cardsYellow": -3,
+    "loses": 6,
+    "goalsScored": 22,
+    "goalsConceded": 22,
+    "cardsYellow": 0,
     "cardsRed": 0
   },
   {
@@ -277,39 +306,10 @@
       "players": []
     },
     "wins": 3,
-    "loses": 5,
-    "goalsScored": 22,
-    "goalsConceded": 27,
-    "cardsYellow": -5,
-    "cardsRed": 0
-  },
-  {
-    "team": {
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/presidents/hnos-buyer.png",
-        "teamId": "xbuyer-team"
-      },
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kings-league-api.jhoansebastianperez73.workers.dev/static/logos/xbuyer-team.svg",
-      "url": "",
-      "channel": "https://twitch.tv/1k",
-      "coach": "",
-      "socialNetworks": [
-        "https://www.instagram.com/elbarrioklk/?hl=es",
-        "https://www.tiktok.com/@adricontreras4",
-        "https://twitter.com/elbarrioklk_",
-        "https://www.tiktok.com/@elbarrioklk"
-      ],
-      "players": []
-    },
-    "wins": 3,
-    "loses": 5,
-    "goalsScored": 17,
-    "goalsConceded": 23,
-    "cardsYellow": -6,
+    "loses": 6,
+    "goalsScored": 23,
+    "goalsConceded": 30,
+    "cardsYellow": -7,
     "cardsRed": 0
   },
   {
@@ -335,10 +335,10 @@
       "players": []
     },
     "wins": 0,
-    "loses": 8,
-    "goalsScored": 16,
-    "goalsConceded": 32,
-    "cardsYellow": -16,
+    "loses": 9,
+    "goalsScored": 17,
+    "goalsConceded": 35,
+    "cardsYellow": -18,
     "cardsRed": 0
   }
 ]
